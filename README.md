@@ -48,7 +48,8 @@
      - *Save the file, and your app should automatically reload in the browser with the updated text.*
 4. **Build for Production**
      - *When you’re ready to deploy, run the following command to build a production-ready version of your app. This creates an optimized version of your app in the build/ directory, which you can then deploy to a web server.*
-     
+ ## What is the Purpose of React.js? ##
+     - *React.js is a tool for building interactive, fast, and easy-to-maintain web apps*    
 
 
 
